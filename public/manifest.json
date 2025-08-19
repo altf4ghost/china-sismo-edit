@@ -1,0 +1,29 @@
+
+{
+  "name": "SismoPRO - Soluções em Monitoramento Sísmico",
+  "short_name": "SismoPRO",
+  "description": "Líder em monitoramento sísmico no Brasil. Equipamentos de alta precisão e consultoria especializada.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"],
+  "lang": "pt-BR",
+  "scope": "/",
+  "prefer_related_applications": false
+}
